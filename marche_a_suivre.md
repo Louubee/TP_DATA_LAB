@@ -21,8 +21,6 @@ Lance le consumer.py
 Python3 consumer.py
 
 
-
 # Annexe :
 ## list des topics existant :
 sudo /usr/local/kafka/bin/kafka-topics.sh --list --bootstrap-server localhost:9092
-
